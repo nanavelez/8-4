@@ -15,7 +15,7 @@
     
     .botones li a{
     
-   background-color: cornflowerblue;
+    background-color: rgb(251, 197, 247);
     
     color: rgb(0, 0, 0);
     
@@ -51,7 +51,7 @@
     
     .botones li a:hover {
     
-    background-color: rgb(235, 238, 238);
+    background-color: rgb(234, 182, 250);
     
     }
     
@@ -73,5 +73,6 @@
     
     height: 150px;
     
-
+     
+    
     }
